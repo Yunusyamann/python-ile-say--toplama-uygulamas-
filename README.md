@@ -1,0 +1,1 @@
+# python-ile-say--toplama-uygulamas-
